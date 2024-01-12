@@ -26,11 +26,11 @@ Member Team:
 - Homepage <br>
 ![Homepage](images/)
 - All Mission Page <br>
-![All Mission](images/pemulink.jpeg)
+![All Mission](images/)
 - Certain Mission Page <br>
-![Certain Mission](images/pemulink.jpeg)
+![Certain Mission](images/)
 - Modal Mission Acceptance Request <br>
-![Mission Acceptance](images/pemulink.jpeg)
+![Mission Acceptance](images/)
 
 ### Back-End (API Documentation)
 #### API Endpoints:
