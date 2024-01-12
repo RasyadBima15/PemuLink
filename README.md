@@ -44,7 +44,7 @@ sample
   - `{id}` (path parameter): mission ID.
 - **Description:** Displays specific mission based on mission ID.
 
-### 5. Create Mission Acceptance Request
+### 6. Create Mission Acceptance Request
 - **Endpoint:** `http://localhost:8081/{id}`
 - **Method:** `POST`
 - **Parameters:**
