@@ -34,12 +34,12 @@ photo
 #### 1. Register User
 - **Endpoint:** `http://localhost:8081/api/sign-up`
 - **Method:** `POST`
-- **Description:** Register User.
+- **Description:** Register user for households.
 
 #### 2. Login User
 - **Endpoint:** `http://localhost:8081/api/sign-in`
 - **Method:** `POST`
-- **Description:** Login User.
+- **Description:** Login user for households.
 
 #### 3. Create Mission
 - **Endpoint:** `http://localhost:8081/api`
@@ -65,5 +65,5 @@ photo
   - `{id}` (path parameter): user ID.
 - **Description:** Make a request for mission acceptance by the user to the waste bank admin.
 
-  #### Error Handling:
+#### Error Handling:
   
