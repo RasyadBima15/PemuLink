@@ -12,8 +12,8 @@ Member Team:
    * Muhammad Adnan Putra Amiruddin
    * Rasyad Bimasatya
 ---
-## Progress Screenshots
-### Front-End
+## Progress Report
+### Front-End (Screenshots Page)
 - Dashboard <br>
 photo
 - Register Page <br>
