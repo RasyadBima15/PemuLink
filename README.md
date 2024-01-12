@@ -1,5 +1,5 @@
 # PemuLink
-![GitHub Logo](images/pemulink.jpeg)
+![PemuLink Logo](images/pemulink.jpeg)
 ## Detail Description
 Pemulink is an innovative solution that combines the MVP (Minimum Viable Product) concept with sustainability principles to improve the waste distribution system. By focusing on scavengers and the MSME sector, Pemulink aims to reduce the gap in waste distribution and provide economic benefits to those involved.
 ## Team Description
@@ -16,19 +16,21 @@ Member Team:
 ## Progress Report
 ### Front-End (Screenshots Page)
 - Dashboard <br>
-photo
+![Dashboard](images/dashboard.png)
+- Loading Page <br>
+![Loading](images/loading.png)
 - Register Page <br>
-photo
+![Register](images/register.png)
 - Login Page <br>
-photo
+![Login](images/login.png)
 - Homepage <br>
-photo
+![Homepage](images/)
 - All Mission Page <br>
-photo
+![All Mission](images/pemulink.jpeg)
 - Certain Mission Page <br>
-photo
+![Certain Mission](images/pemulink.jpeg)
 - Modal Mission Acceptance Request <br>
-photo
+![Mission Acceptance](images/pemulink.jpeg)
 
 ### Back-End (API Documentation)
 #### API Endpoints:
