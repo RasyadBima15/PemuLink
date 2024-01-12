@@ -29,8 +29,8 @@ photo
 - Modal Mission Acceptance Request <br>
 photo
 
-### Back-End
-#### API Documentation:
+### Back-End (API Documentation)
+#### API Endpoints:
 #### 1. Register User
 - **Endpoint:** `http://localhost:8081/api/sign-up`
 - **Method:** `POST`
@@ -65,5 +65,49 @@ photo
   - `{id}` (path parameter): user ID.
 - **Description:** Make a request for mission acceptance by the user to the waste bank admin.
 
-#### Error Handling:
-  
+#### Error Handlings:
+#### 1. Bad Request (400)
+- **Description:** This error occurs when the request is malformed or invalid.
+- **Example Response**:
+```json
+{
+  "status": 400,
+  "message": "Invalid data. Please check your request."
+}
+```
+#### 2. Unauthorized (401)
+- **Description:** This error occurs when the user is not authorized to access a protected resource.
+- **Example Response**:
+```json
+{
+  "status": 401,
+  "message": "Unauthorized"
+}
+```
+#### 3. Forbidden (403)
+- **Description:** This error occurs when the user does not have permission to access a specific resource.
+- **Example Response**:
+```json
+{
+  "status": 403,
+  "message": "Forbidden"
+}
+```
+#### 4. Not Found (404)
+- **Description:** This error occurs when the requested resource is not found.
+- **Example Response**:
+```json
+{
+  "status": 404,
+  "message": "Cannot Find It"
+}
+```
+#### 5. Internal Server Error (500)
+- **Description:** This error occurs when an unexpected internal server error happens.
+- **Example Response**:
+```json
+{
+  "status": 500,
+  "message": "Waduh! There is Something Wrong"
+}
+```
