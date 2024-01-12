@@ -14,37 +14,51 @@ Member Team:
 ---
 ## Progress Screenshots
 ### Front-End
-sample
+- Dashboard <br>
+photo
+- Register Page <br>
+photo
+- Login Page <br>
+photo
+- Homepage <br>
+photo
+- All Mission Page <br>
+photo
+- Certain Mission Page <br>
+photo
+- Modal Mission Acceptance Request <br>
+photo
+
 ### Back-End
 #### API Documentation:
-### 1. Register User
+#### 1. Register User
 - **Endpoint:** `http://localhost:8081/sign-up`
 - **Method:** `POST`
-- **Description:** Register an User.
+- **Description:** Register User.
 
-### 2. Login User
+#### 2. Login User
 - **Endpoint:** `http://localhost:8081/sign-in`
 - **Method:** `POST`
 - **Description:** Login User.
 
-### 3. Create Mission
+#### 3. Create Mission
 - **Endpoint:** `http://localhost:8081/`
 - **Method:** `POST`
 - **Description:** Create a mission by Waste Bank Admin.
 
-### 4. Get All Weekly Missions
+#### 4. Get All Weekly Missions
 - **Endpoint:** `http://localhost:8081/`
 - **Method:** `GET`
 - **Description:** Displays all missions for the user.
 
-### 5. Get Mission By Id
+#### 5. Get Mission By Id
 - **Endpoint:** `http://localhost:8081/{id}`
 - **Method:** `GET`
 - **Parameters:**
   - `{id}` (path parameter): mission ID.
 - **Description:** Displays specific mission based on mission ID.
 
-### 6. Create Mission Acceptance Request
+#### 6. Create Mission Acceptance Request
 - **Endpoint:** `http://localhost:8081/{id}`
 - **Method:** `POST`
 - **Parameters:**
