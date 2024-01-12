@@ -1,0 +1,6 @@
+[submodule "pemulink-project-client"]
+	path = pemulink-project-client
+	url = https://github.com/RasyadBima15/pemulink-project-client.git
+[submodule "pemulink-project-server"]
+	path = pemulink-project-server
+	url = https://github.com/RasyadBima15/pemulink-project-server.git
