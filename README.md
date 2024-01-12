@@ -16,7 +16,7 @@ Member Team:
 ### Front-End
 sample
 ### Back-End
-#### API Endpoints:
+#### API Documentation:
 ### 1. Register User
 - **Endpoint:** `http://localhost:8081/sign-up`
 - **Method:** `POST`
