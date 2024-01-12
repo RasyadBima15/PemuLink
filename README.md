@@ -24,13 +24,11 @@ Member Team:
 - Login Page <br>
 ![Login](images/login.png)
 - Homepage <br>
-![Homepage](images/)
-- All Mission Page <br>
-![All Mission](images/)
+![Homepage](images/homepage.png)
 - Certain Mission Page <br>
-![Certain Mission](images/)
-- Modal Mission Acceptance Request <br>
-![Mission Acceptance](images/)
+![Certain Mission](images/certain_mission.png)
+- Mission Acceptance Request <br>
+![Mission Acceptance](images/upload_mission.png)
 
 ### Back-End (API Documentation)
 #### API Endpoints:
