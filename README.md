@@ -32,35 +32,38 @@ photo
 ### Back-End
 #### API Documentation:
 #### 1. Register User
-- **Endpoint:** `http://localhost:8081/sign-up`
+- **Endpoint:** `http://localhost:8081/api/sign-up`
 - **Method:** `POST`
 - **Description:** Register User.
 
 #### 2. Login User
-- **Endpoint:** `http://localhost:8081/sign-in`
+- **Endpoint:** `http://localhost:8081/api/sign-in`
 - **Method:** `POST`
 - **Description:** Login User.
 
 #### 3. Create Mission
-- **Endpoint:** `http://localhost:8081/`
+- **Endpoint:** `http://localhost:8081/api`
 - **Method:** `POST`
 - **Description:** Create a mission by Waste Bank Admin.
 
 #### 4. Get All Weekly Missions
-- **Endpoint:** `http://localhost:8081/`
+- **Endpoint:** `http://localhost:8081/api`
 - **Method:** `GET`
 - **Description:** Displays all missions for the user.
 
 #### 5. Get Mission By Id
-- **Endpoint:** `http://localhost:8081/{id}`
+- **Endpoint:** `http://localhost:8081/api/{id}`
 - **Method:** `GET`
 - **Parameters:**
   - `{id}` (path parameter): mission ID.
 - **Description:** Displays specific mission based on mission ID.
 
 #### 6. Create Mission Acceptance Request
-- **Endpoint:** `http://localhost:8081/{id}`
+- **Endpoint:** `http://localhost:8081/api/{id}`
 - **Method:** `POST`
 - **Parameters:**
   - `{id}` (path parameter): user ID.
 - **Description:** Make a request for mission acceptance by the user to the waste bank admin.
+
+  #### Error Handling:
+  
