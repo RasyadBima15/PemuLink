@@ -16,7 +16,11 @@ Member Team:
 ## Progress Report
 ### Front-End (Screenshots Page)
 - Dashboard <br>
+![Dashboard](images/dashboard_1.png)
 ![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard_2.png)
+![Dashboard](images/dashboard_3.png)
+![Dashboard](images/dashboard_4.png)
 - Loading Page <br>
 ![Loading](images/loading.png)
 - Register Page <br>
@@ -24,11 +28,22 @@ Member Team:
 - Login Page <br>
 ![Login](images/login.png)
 - Homepage <br>
-![Homepage](images/homepage.png)
+![Homepage](images/homepage_3.png)
+![Homepage](images/homepage_2.png)
 - Certain Mission Page <br>
-![Certain Mission](images/certain_mission.png)
+![Certain Mission](images/mission_detail_2.png)
+![Certain Mission](images/mission_detail.png)
 - Mission Acceptance Request <br>
 ![Mission Acceptance](images/upload_mission.png)
+- Join Event <br>
+![Join Event](images/join_event.png)
+- Create Team <br>
+![Create Team](images/create_team.png)
+- Join Team <br>
+![Join Team](images/join_team.png)
+- Team Page <br>
+![Team Page](images/team_page.png)
+
 
 ### Back-End (API Documentation)
 #### API Endpoints:
